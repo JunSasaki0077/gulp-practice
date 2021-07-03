@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "sources": [
+    "style.scss",
+    "style.css",
+    "<no source>"
+  ],
+  "names": [],
+  "mappings": "AAKA;EACE,WAHI;ACDN;;ADOA;EAGE,mBAAA;EAFA,aAAA;EACA,6BAAA;ACHF;;ADOA;EACE,mCAAA;EAAA,2BAAA;ACJF;;ADOA;EAEE,yBAAA;EACA,2BAAA;EAFA,iBAAA;EAAA,aAAA;EAEA,gCAAA;EADA,8BAAA;ACHF;;ADCA;EEnBA,eAAA;EAAA,kBAAA;ADkBA;;ADCA;EEnBA,eAAA;EAAA,kBAAA;ADkBA;;ADCA;EEnBA,eAAA;EAAA,kBAAA;ADkBA;;ADCA;EEnBA,eAAA;EAAA,kBAAA;ADkBA",
+  "file": "style.css",
+  "sourcesContent": [
+    "// style.scss\n@charset \"utf-8\";\n\n$red: #f00;\n\n.hoge {\n  color: $red;\n}\n\n.alphabetical {\n  display: flex;\n  justify-content: space-around;\n  align-items: center;\n}\n\n.prefix {\n  transform: translateY(-50%);\n}\n\n.grid {\n  display: grid;\n  grid-template-rows: 100px 50px;\n  grid-template-columns: 150px 1fr;\n}\n",
+    ".hoge {\n  color: #f00;\n}\n\n.alphabetical {\n  display: flex;\n  justify-content: space-around;\n  align-items: center;\n}\n\n.prefix {\n  transform: translateY(-50%);\n}\n\n.grid {\n  display: grid;\n  grid-template-rows: 100px 50px;\n  grid-template-columns: 150px 1fr;\n}",
+    null
+  ]
+}
