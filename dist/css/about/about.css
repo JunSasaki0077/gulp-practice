@@ -5,4 +5,19 @@
   font-size: 55px;
   font-weight: bold;
 }
+.about-table {
+  width: 100%;
+}
+.about-table_header {
+  background-color: #efefef;
+  font-size: 15px;
+  padding: 15px;
+  vertical-align: middle;
+  width: 20%;
+}
+.about-table_text {
+  font-size: 15px;
+  padding: 15px;
+  width: 80%;
+}
 /*# sourceMappingURL=../sourcemaps/about/about.css.map */
